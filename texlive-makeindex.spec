@@ -1,12 +1,12 @@
-# revision 23089
+# revision 26689
 # category Package
 # catalog-ctan /indexing/makeindex
-# catalog-date 2011-01-01 19:05:40 +0100
+# catalog-date 2011-09-24 09:40:13 +0200
 # catalog-license other-free
 # catalog-version 2.12
 Name:		texlive-makeindex
 Version:	2.12
-Release:	2
+Release:	3
 Summary:	Process index output to produce typesettable code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/indexing/makeindex
