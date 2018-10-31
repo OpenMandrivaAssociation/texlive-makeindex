@@ -6,7 +6,7 @@
 # catalog-version 2.12
 Name:		texlive-makeindex
 Version:	2.12
-Release:	14
+Release:	15
 Summary:	Process index output to produce typesettable code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/indexing/makeindex
