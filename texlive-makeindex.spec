@@ -1,6 +1,6 @@
 Name:		texlive-makeindex
 Version:	62517
-Release:	1
+Release:	2
 Summary:	Process index output to produce typesettable code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/indexing/makeindex
