@@ -3,7 +3,7 @@ Version:	62517
 Release:	2
 Summary:	Process index output to produce typesettable code
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/indexing/makeindex
+URL:		https://www.ctan.org/tex-archive/indexing/makeindex
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/makeindex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/makeindex.doc.r%{version}.tar.xz
